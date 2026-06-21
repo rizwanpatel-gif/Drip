@@ -3,7 +3,7 @@ import { Preset } from '../types';
 export const PRESETS: Preset[] = [
   { name: 'Netflix', category: 'Entertainment', color: '#E50914', iconName: 'television-play', amount: 649 },
   { name: 'Spotify', category: 'Music', color: '#1DB954', iconName: 'music-note', amount: 119 },
-  { name: 'Amazon Prime', category: 'Entertainment', color: '#FF9900', iconName: 'amazon', amount: 299 },
+  { name: 'Amazon Prime', category: 'Entertainment', color: '#FF9900', iconName: 'cart', amount: 299 },
   { name: 'Disney+ Hotstar', category: 'Entertainment', color: '#113CCF', iconName: 'television', amount: 299 },
   { name: 'YouTube Premium', category: 'Entertainment', color: '#FF0000', iconName: 'youtube', amount: 139 },
   { name: 'Apple Music', category: 'Music', color: '#FA243C', iconName: 'music', amount: 99 },

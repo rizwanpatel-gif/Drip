@@ -282,7 +282,7 @@ const styles = StyleSheet.create({
   },
   cycleChipActive: {
     borderColor: COLORS.accent,
-    backgroundColor: COLORS.accentDim,
+    backgroundColor: COLORS.card,
     shadowColor: COLORS.accentShadow,
     shadowOffset: { width: 3, height: 3 },
     shadowOpacity: 1,
