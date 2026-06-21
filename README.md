@@ -190,6 +190,3 @@ The visual style is based on CRED's NeoPOP design system:
 
 ---
 
-## License
-
-MIT
