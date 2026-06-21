@@ -11,28 +11,21 @@ A subscription tracker that shows exactly how much you spend on recurring charge
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center"><b>Dashboard</b></td>
-    <td align="center"><b>Subscriptions</b></td>
-    <td align="center"><b>Detail</b></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/dashboard.jpg" width="200"/></td>
-    <td><img src="assets/screenshots/subscriptions.jpg" width="200"/></td>
-    <td><img src="assets/screenshots/detail.jpg" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Add Subscription</b></td>
-    <td align="center"><b>Analytics (Monthly)</b></td>
-    <td align="center"><b>Analytics (Yearly)</b></td>
-  </tr>
-  <tr>
-    <td><img src="assets/screenshots/add-subscription.jpg" width="200"/></td>
-    <td><img src="assets/screenshots/analytics-monthly.jpg" width="200"/></td>
-    <td><img src="assets/screenshots/analytics-yearly.jpg" width="200"/></td>
-  </tr>
-</table>
+<p>
+  <img src="assets/screenshots/dashboard.jpg" width="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/subscriptions.jpg" width="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/detail.jpg" width="180" />
+</p>
+
+<p>
+  <img src="assets/screenshots/add-subscription.jpg" width="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/analytics-monthly.jpg" width="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/analytics-yearly.jpg" width="180" />
+</p>
 
 ---
 
